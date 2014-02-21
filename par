@@ -1,0 +1,8 @@
+30.d0    ! beta
+5.d0    ! t, off-diagonal matrix elemet
+0       ! 1 if read configuration, 0 therwise
+0       ! 1 if read statistics, 0 otherwise
+1d6     ! step for printing
+1d6     ! step for writing
+1.d2    ! step for measuring
+2d0     ! mln steps for thermalization
